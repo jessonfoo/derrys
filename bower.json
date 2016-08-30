@@ -1,0 +1,17 @@
+{
+  "name": "derrys_fishin_api",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jessonfoo <jessonfoo@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
